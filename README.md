@@ -1,3 +1,3 @@
 # eyes.js
 
-## Just a pair of eyes 
+Just a pair of eyes 
